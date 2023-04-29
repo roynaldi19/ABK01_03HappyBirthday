@@ -1,7 +1,8 @@
-package com.example.abk01_03happybirthday
+package com.roynaldi19.abk1_03happybirthday
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.roynaldi19.abk1_03happybirthday.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

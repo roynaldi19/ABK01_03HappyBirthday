@@ -1,4 +1,4 @@
-package com.example.abk01_03happybirthday
+package com.roynaldi19.abk1_03happybirthday
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

@@ -1,4 +1,4 @@
-package com.example.abk01_03happybirthday
+package com.roynaldi19.abk1_03happybirthday
 
 import org.junit.Test
 
