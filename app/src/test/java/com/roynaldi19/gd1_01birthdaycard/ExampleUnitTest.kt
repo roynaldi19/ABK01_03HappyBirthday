@@ -1,4 +1,4 @@
-package com.roynaldi19.gd1_01happybirthday
+package com.roynaldi19.gd1_01birthdaycard
 
 import org.junit.Test
 

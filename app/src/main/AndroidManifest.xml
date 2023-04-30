@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.roynaldi19.gd1_01happybirthday">
+    package="com.roynaldi19.gd1_01birthdaycard">
 
     <application
         android:allowBackup="true"
@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ABK01_03HappyBirthday">
-        <activity android:name="com.roynaldi19.gd1_01happybirthday.MainActivity"
+        <activity android:name="com.roynaldi19.gd1_01birthdaycard.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
