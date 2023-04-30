@@ -1,4 +1,4 @@
-package com.roynaldi19.abk1_03happybirthday
+package com.roynaldi19.gd1_01happybirthday
 
 import org.junit.Test
 
